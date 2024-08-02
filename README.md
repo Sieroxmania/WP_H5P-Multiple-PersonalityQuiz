@@ -13,7 +13,7 @@ Insgesamt wurde das Konzept erfolgreich umgesetzt und die Zielsetzung erreicht, 
 - **Erweiterter Modus:** Ausgabe aller Personalities, inklusive der Visualisierung der Übereinstimmungsrate anhand eines Balkendiagramms sowie der Ausgabe weiterer Metadaten.
 - **Multiplier:** Die Antwortmöglichkeiten können unterschiedlich gewichtet werden, was zu einer differenzierteren und individuelleren Auswertung führt.
 - **Trennung von erweitertem und Standardmodus:** Verhindert Beeinträchtigungen bestehender Installationen und ermöglicht eine effiziente Wartung und Fehlerbehebung.
-- **Erweiterung des Feldes "description":** Die Zeichenanzahl wurde erhöht und das Feld mit dem H5P HTML Widget umfunktioniert.
+- **Erweiterung des Feldes "description":** Die Zeichenanzahl wurde erhöht und das Feld mit dem H5P HTML Widget erweitert.
 
 ## Technische Details
 
